@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704175184 source:e:\aircraft\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+
